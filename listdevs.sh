@@ -1,3 +1,7 @@
+# Simple script to list the devices an ipa has been built for
+# Copyright © Tapadoo, 2011.  All Rights Reserved
+# No warranty is provided for the use of this script
+# You are free to modify this for your needs 
 IPAFILE=$1
 TMPDIR=tmp$$.tmp
 mkdir $TMPDIR
