@@ -1,0 +1,10 @@
+This is a simple script that can be used to list the devices an ipa file
+has been signed to work against
+to use:
+./listdevs.sh <ipa file>
+The output will be a list of UDIDs that are contained in the embedded
+mobileprovisioning file contained within the ipa
+
+Enjoy
+
+-- Team Tapadoo
