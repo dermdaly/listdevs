@@ -4,6 +4,7 @@
 # Copyright © Tapadoo, 2011.  All Rights Reserved
 # No warranty is provided for the use of this script
 # You are free to modify this for your needs 
+LANG=C
 IPAFILE=$1
 TMPDIR=tmp$$.tmp
 mkdir $TMPDIR
