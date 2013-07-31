@@ -5,6 +5,7 @@
 # No warranty is provided for the use of this script
 # You are free to modify this for your needs 
 LANG=C
+LC_CTYPE=C
 IPAFILE=$1
 TMPDIR=tmp$$.tmp
 mkdir $TMPDIR
